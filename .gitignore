@@ -1,0 +1,6 @@
+Berksfile.lock
+.vagrant
+
+# eclipse nonsense
+.project
+.buildpath
